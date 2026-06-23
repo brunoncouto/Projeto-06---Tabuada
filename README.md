@@ -1,9 +1,9 @@
 PT-BR:
-# Projeto 06 - Tabuada
-Projeto desenvolvido durante a Formação Front-End;
-Tecnologias utilizadas: HTML5, CSS3 e Javascript
+# Projeto 06 - Tabuada<br>
+Projeto desenvolvido durante a Formação Front-End;<br>
+Tecnologias utilizadas: HTML5, CSS3 e Javascript<br>
 
-Conceitos aplicados:
+Conceitos aplicados:<br>
   . Introdução de conceitos Javascript, como seleção de atributos HTML com querySelector; <br>
 . Estruturas de repetição como For, forEach, If Else<br>
 . Utilização de crase para formatação dinâmica de elementos <br>
@@ -14,12 +14,12 @@ Conceitos aplicados:
 __________________________________________________________________________________________________
 
 EN:<br>
-#Project 06 - Multiplication Table
+#Project 06 - Multiplication Table<br>
 
-Project developed during the Front-End Training program;
-Technologies used: HTML5, CSS3, and JavaScript
+Project developed during the Front-End Training program;<br>
+Technologies used: HTML5, CSS3, and JavaScript<br>
 
-Concepts applied:
+Concepts applied:<br>
   . Introduction to JavaScript concepts, such as selecting HTML attributes with querySelector; <br>
 . Looping structures such as for, forEach, and if-else <br>
 . Use of chaining for dynamic formatting of elements <br>
